@@ -1,9 +1,3 @@
-O seu texto está muito bom e bem estruturado, com instruções claras. No entanto, há alguns pequenos erros de digitação (typos) e alguns pontos onde a linguagem pode ficar mais profissional para um manual técnico.
-
-Abaixo, apresento a **versão corrigida** pronta para uso, seguida de uma lista com as principais alterações que fiz.
-
----
-
 ### Versão Corrigida
 
 # ROTINA
