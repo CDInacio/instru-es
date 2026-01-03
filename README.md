@@ -82,7 +82,7 @@ O link antigo para download do Windows e Office que está no servidor de arquivo
 - [Windows 11](https://massgrave.dev/windows_11_links)
 - [Pacote Office](https://massgrave.dev/office_c2r_links)
 
-Para ativar o Windows e Office, abra o PowerShell como administrador e copie o comando abaixo:
+Para ativar o Windows e Office, abra o PowerShell como administrador e copie o comando:
 `irm https://get.activated.win | iex`
 
 Se o código acima estiver bloqueado (pelo provedor de internet/DNS), tente este comando (requer Windows 10 ou 11 atualizado):
