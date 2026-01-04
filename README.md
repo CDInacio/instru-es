@@ -106,7 +106,7 @@ Utilize os parâmetros abaixo para configuração de IP estático quando necess�
 
 ### **Gerenciamento de Atualizações (Windows Update)**
 
-Devido à limitação do link da PRODEMGE (10 Megas), atualizações automáticas saturam a rede, inviabilizando o trabalho na UAI.
+Devido à limitação do link da PRODEMGE (10 Megas), atualizações automáticas consomem toda a banda, deixando a internet muito lenta.
 
 - **Política:** Manter o Windows Update **desativado**.
 - **Ferramenta:** Utilize o **[Windows Update Blocker (WUB)](https://github.com/Hudrig0/Windows-Update-Blocker/blob/main/Wub_x64.exe)**.
