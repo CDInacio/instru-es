@@ -80,7 +80,7 @@ Para evitar conflitos de contrato, verifique a propriedade do equipamento antes 
 
 4. **Demais Computadores:**
 
-- O restante do parque tecnológico pertence à **UAI (Câmara)**.
+- O restante pertence à **UAI (Câmara)**.
 
 ### **Política de Rede (Internet)**
 
