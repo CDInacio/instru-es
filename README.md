@@ -181,7 +181,7 @@ Há uma dificuldade recorrente dos atendentes com o uso dos periféricos.
 | Recurso                             | Senha / Detalhe | Observação                     |
 | ----------------------------------- | --------------- | ------------------------------ |
 | **Wi-Fi**                           | `Uaijm!@#`      | Rede corporativa               |
-| **Guichês 11, 12, 13, 14**          | `u`             | Senha padrão                   |
+| **Guichês 11, 12, 13, 14**          | `uaijm4454`             | Senha padrão                   |
 | **Guichê 02 (Trânsito)**            | `123456`        | _Verificar se usuário alterou_ |
 | **Guichês 4, 5, 6, 7 (Identidade)** | `123456`        | Senha padrão                   |
 | **ADM Identidade**                  | `V@l1d#2021`    | Acesso administrativo          |
